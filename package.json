@@ -1,5 +1,5 @@
 {
-	"name": "s-app-5",
+	"name": "sveltekit-rolling-my-own-auth",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
